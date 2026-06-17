@@ -1,6 +1,6 @@
 # Call Center Volume Forecasting & Staffing Capacity Model
 
-## What this project does, in plain English
+## What this project does
 
 This project answers a question real call centers face every week: *how many calls are we
 going to get, and how many agents do we need on the schedule to handle them?*
